@@ -2,7 +2,7 @@ version: '2.0'
 
 services:
   gmg:
-    image: speshak/gmg:latest
+    image: balazs4/gmg:latest
     ports:
       - "3000:80"
   emulator:
